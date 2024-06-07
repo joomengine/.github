@@ -1,13 +1,19 @@
-# Welcome to the Octoleo Project
+# Welcome to the [Joomla! Component Builder (JCB)](https://git.vdm.dev/joomla/Component-Builder)
 
-Welcome to the official repository of the Octoleo project! Here you will find a suite of tools and libraries designed to enhance your development workflow, improve efficiency, and provide robust solutions for common challenges.
+Joomla Component Builder (JCB) is a powerful tool designed to simplify and accelerate the development of custom Joomla
+components. Its primary goal is to empower developers by providing an intuitive interface that automates the creation of
+component code, enabling you to build, customize, and manage Joomla components with ease.
 
-## Overview of Octoleo Projects
+By using JCB, you can focus more on your specific application logic and less on repetitive coding tasks, ensuring a more
+efficient and streamlined development process. Dive in, explore the possibilities, and contribute to making Joomla
+component development faster and more enjoyable for everyone!
 
-| Project      | Description | Repository Link |
-|--------------|-------------|-----------------|
-| **OctoJoom** | Easily deploys Docker containers of Joomla for a powerful, secure shared development environment. | [OctoJoom](https://git.vdm.dev/octoleo/octojoom) |
-| **OctoZipo** | Unzips packages and converts them to repositories or updates existing ones. | (still private) |
-| **OctoPower** | Packages multiple JCB power classes into a Composer PHP package using a JSON configuration and environment variables. | [OctoPower](https://git.vdm.dev/octoleo/octopower) |
-| **OctoJpack** | Easily packages multiple Joomla extensions in an automated way using a JSON configuration file and environment variables. | [OctoJpack](https://git.vdm.dev/octoleo/octojpack) |
-| **OctoSync** | Synchronizes files and repositories between local and remote locations. | [OctoSync](https://git.vdm.dev/octoleo/octosync) |
+| Description                                                 | Links                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Report an issue with the Joomla! Component Builder.         | [Open An Issue](https://git.vdm.dev/joomla/Component-Builder/issues/new/choose)                                                                                                                                                                                                         |
+| Download the JCB package to install on your Joomla website. | [J 5](https://git.vdm.dev/joomla/pkg-component-builder/archive/5.x.zip) - [J 4](https://git.vdm.dev/joomla/pkg-component-builder/archive/4.x.zip) - [J 3](https://git.vdm.dev/joomla/pkg-component-builder/archive/3.x.zip)                                                             |
+| Join us on Telegram.                                        | [Announcement](https://t.me/Joomla_component_builder) - [Updates](https://t.me/jcb_updates) - [User Group](https://t.me/jcb_group)                                                                                                                                                      |
+| Join us on JoomlaCommunity Chat, (mattermost)               | [JCB Channel](https://joomlacommunity.cloud.mattermost.com/main/channels/jcb)                                                                                                                                                                                                           |
+| Watch and learn from video tutorials.                       | [Original](https://www.youtube.com/playlist?list=PLQRGFI8XZ_wtGvPQZWBfDzzlERLQgpMRE) - [German](https://www.youtube.com/playlist?list=PLQRGFI8XZ_wu0tDFxJtZFwW7AxA4JHQV7) - [Hello World](https://www.youtube.com/watch?v=IQfsLYIeblk&list=PLQRGFI8XZ_wtGvPQZWBfDzzlERLQgpMRE&index=45) |
+| Search the wiki text based on the tutorials.                | [Wiki](https://git.vdm.dev/joomla/Component-Builder/wiki)                                                                                                                                                                                                                               |
+| Contributing to the Joomla Component Builder                | [Guide](https://git.vdm.dev/joomla/Component-Builder/src/branch/5.x/.github/CONTRIBUTING.md)                                                                                                                                                                                            |
