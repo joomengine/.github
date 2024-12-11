@@ -1,5 +1,7 @@
 # Welcome to the [Joomla! Component Builder (JCB)](https://git.vdm.dev/joomla/Component-Builder)
 
+[![Support Joomla Component Builder](https://img.shields.io/badge/Donate-Joomla%20Component%20Builder-green.svg)](https://opencollective.com/joomla-component-builder/contribute/donation-15820/checkout?interval=month&amount=40&contributeAs=me) [![JCB Powers Uptime](https://status.vdm.dev/api/badge/25/uptime?labelPrefix=JCB+Powers+)](https://status.vdm.dev/status/jcb) [![Joomla 5 Compatible](https://img.shields.io/badge/Joomla-5.x%20Compatible-green.svg)](https://git.vdm.dev/joomla/pkg-component-builder/src/branch/5.x) [![GPLv3 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://git.vdm.dev/joomla/Component-Builder/src/branch/5.x/LICENSE.txt) [![GitHub stars](https://img.shields.io/github/stars/vdm-io/Joomla-Component-Builder.svg?style=flat&label=Star)](https://github.com/vdm-io/Joomla-Component-Builder/stargazers)
+
 Joomla Component Builder (JCB) is a powerful tool designed to simplify and accelerate the development of custom Joomla
 components. Its primary goal is to empower developers by providing an intuitive interface that automates the creation of
 component code, enabling you to build, customize, and manage Joomla components with ease.
