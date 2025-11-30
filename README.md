@@ -1,17 +1,24 @@
 # Welcome to the Joomla! Component Builder (JCB)
-> the JoomEngine!
+> the engine behind **JoomEngine™**
 
-[![💚 Support JCB Development](https://img.shields.io/badge/Donate-JCB%20on%20OpenCollective-green.svg)](https://opencollective.com/joomla-component-builder/contribute/donation-15820/checkout?interval=month&amount=40&contributeAs=me) [![🔌 JCB Powers Uptime](https://status.vdm.dev/api/badge/25/uptime?labelPrefix=JCB+Powers+)](https://status.vdm.dev/status/jcb) [![🔧 Joomla 6.x Compatible](https://img.shields.io/badge/Joomla-6.x%20Compatible-orange.svg)](https://git.vdm.dev/joomla/pkg-component-builder/src/branch/6.x) [![📦 Latest Release](https://img.shields.io/badge/Release-git.vdm.dev-blue)](https://git.vdm.dev/joomla/pkg-component-builder/releases) 
+[![💚 Support](https://img.shields.io/badge/Support-OpenCollective-2ecc71?logo=opencollective\&logoColor=white)](https://opencollective.com/joomla-component-builder/contribute/donation-15820/checkout?interval=month&amount=40&contributeAs=me)
+[![⚡ Uptime](https://status.vdm.dev/api/badge/25/uptime?labelPrefix=JCB+Powers+)](https://status.vdm.dev/status/jcb)
+[![🧩 Joomla 6](https://img.shields.io/badge/Joomla-6.x-f39c12?logo=joomla\&logoColor=white)](https://git.vdm.dev/joomla/pkg-component-builder/src/branch/6.x)
+[![📦 Releases](https://img.shields.io/badge/Releases-git.vdm.dev-3498db?logo=git\&logoColor=white)](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
-[![⭐ GitHub Stars](https://img.shields.io/github/stars/joomengine/Joomla-Component-Builder.svg?style=flat&label=Stars)](https://github.com/joomengine/Joomla-Component-Builder/stargazers) [![💬 Join the Discussion](https://img.shields.io/badge/Discussions-GitHub-blueviolet)](https://github.com/orgs/joomengine/discussions) [![👥 Community Channel (Telegram)](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/s/Joomla_component_builder) [![📖 Wiki Documentation](https://img.shields.io/badge/Docs-Wiki-informational)](https://github.com/joomengine/jcb-documentation/blob/master/english/README.md) [![🧪 Nightly Builds](https://img.shields.io/badge/Nightly-Builds-orange)](https://git.vdm.dev/joomla/pkg-component-builder) [![🛡️ GPLv2 or later License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://git.vdm.dev/joomla/Component-Builder/src/branch/5.x/LICENSE.txt)
+[![⭐ Stars](https://img.shields.io/github/stars/joomengine/Joomla-Component-Builder.svg?style=flat\&label=Stars\&logo=github)](https://github.com/joomengine/Joomla-Component-Builder/stargazers)
+[![💬 Discussions](https://img.shields.io/badge/Discussions-GitHub-8e44ad?logo=github)](https://github.com/orgs/joomengine/discussions)
+[![📢 Community](https://img.shields.io/badge/Community-Telegram-1da1f2?logo=telegram)](https://t.me/s/Joomla_component_builder)
+[![📘 Docs](https://img.shields.io/badge/Docs-Wiki-16a085?logo=readthedocs)](https://github.com/joomengine/jcb-documentation/blob/master/english/README.md)
+[![🛡 License](https://img.shields.io/badge/License-GPLv2+-2980b9?logo=gnu)](https://git.vdm.dev/joomla/Component-Builder/src/branch/5.x/LICENSE.txt)
 
 ---
 
-Joomla Component Builder (JCB) is more than a tool — it's a full-scale development engine for building, maintaining, and distributing Joomla extensions across Joomla 3, 4, 5, and 6.
+Joomla Component Builder (JCB) is not just a tool — it is a **complete development platform** for building, maintaining, and distributing Joomla extensions across Joomla 3, 4, 5, and 6.
 
-At the core is the [main component repository](https://git.vdm.dev/joomla/Component-Builder), which includes everything needed to visually build native Joomla components, plugins, and modules — with automated compiling, versioning, packaging, and even class-level dependency management.
+At its core is the [main component repository](https://git.vdm.dev/joomla/Component-Builder), providing everything needed to visually design native Joomla components, plugins, and modules — including compiling, versioning, packaging, and structured class dependency management.
 
-Whether you're a developer, contributor, or just exploring the power of Joomla, you're in the right place. Below you'll find quick links to help you get started or dive deeper.
+Whether you are a developer, contributor, or decision-maker, JCB gives you an **engineering-grade workflow** for professional Joomla development.
 
 ---
 
@@ -21,7 +28,7 @@ Whether you're a developer, contributor, or just exploring the power of Joomla, 
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🚀 **Main JCB Engine & Source Code** | [Component Builder (Main Repo)](https://git.vdm.dev/joomla/Component-Builder) |
 | 📦 **Download the JCB Installer Package** | [Stable Releases](https://git.vdm.dev/joomla/pkg-component-builder/releases) · [J6 Nightly](https://github.com/joomengine/pkg-component-builder/archive/refs/heads/6.x.zip) · [J5](https://github.com/joomengine/pkg-component-builder/archive/refs/heads/5.x.zip) · [J4](https://github.com/joomengine/pkg-component-builder/archive/refs/heads/4.x.zip) · [J3](https://github.com/joomengine/pkg-component-builder/archive/refs/heads/3.x.zip) |
-| 📦 **Easy JCB Setup** | [OctoJoom](https://git.vdm.dev/octoleo/octojoom) · [AWS](https://www.youtube.com/watch?v=YgNVX2i-pL4) · [VirtualBox](https://www.youtube.com/watch?v=owpxKie0I7s) |
+| 🎯 **Easy JCB Setup** | [OctoJoom](https://git.vdm.dev/octoleo/octojoom) · [AWS](https://www.youtube.com/watch?v=YgNVX2i-pL4) · [VirtualBox](https://www.youtube.com/watch?v=owpxKie0I7s) |
 | 💼 **JCB Packages** [🛈](https://github.com/orgs/joomengine/discussions/995) | [Packages](https://github.com/joomengine/packages) · [Joomla Packages](https://github.com/orgs/joomengine/discussions/1008) |
 | 📚 **Documentation** _(english)_ | [JCB Documentation and Onboarding Guide](https://github.com/joomengine/jcb-documentation/blob/master/english/README.md) |
 | 🐞 **Report Bugs or Request Features** | [New Issue](https://git.vdm.dev/joomla/Component-Builder/issues/new/choose) · [All Issues](https://git.vdm.dev/joomla/Component-Builder/issues) |
@@ -32,6 +39,60 @@ Whether you're a developer, contributor, or just exploring the power of Joomla, 
 
 ---
 
+<details>
+<summary><strong>🌍 The JoomEngine Vision</strong></summary>
+
+**JoomEngine is the upcoming official marketplace for premium Joomla extensions built with JCB.**
+
+Unlike traditional directories, JoomEngine focuses on advanced, enterprise-level solutions that reflect the real value of professional Joomla development.
+
+### What Makes JoomEngine Different
+
+* ✅ Exclusively for JCB-built extensions
+* ✅ Direct publishing from inside JCB
+* ✅ Two package types:
+  * Joomla installable packages
+  * JCB blueprint packages
+* ✅ Strict quality & pricing standards
+* ✅ Built for agencies, professionals, and enterprises
+
+### Pricing Model (Minimums)
+
+* Joomla extensions: **$199+**
+* JCB blueprints: **$1,999+**
+
+### Why This Matters
+
+JoomEngine exists to:
+
+* Raise Joomla extension standards
+* Protect developer value
+* Build a premium ecosystem
+
+**This is where serious Joomla software lives.**
+
+</details>
+
+---
+
+<details>
+<summary><strong>🤝 Join the Community</strong></summary>
+
+JCB is powered by a strong, focused global community:
+
+* 💬 Daily support in Telegram
+* 🧠 Architecture & design discussions
+* 🚀 Developer-driven roadmap
+* 🌍 Multilingual contributor base
+* 🎯 Real-world use cases & feedback loops
+
+Whether you're fixing bugs, writing docs, shipping packages, or building systems — you're welcome here.
+
+</details>
+
+---
+
 > We invite you to explore the most advanced code generation and component management system Joomla has ever seen.
 
 🧱 Build smarter. ⚡ Deploy faster. 💡 Maintain better — with [JCB](https://www.joomlacomponentbuilder.com).
+
